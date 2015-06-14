@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Hiddn Android</string>
+    <string name="app_name">Hiddn</string>
+    <string name="launcher_name">Hiddn</string>
+    <string name="main_text">Hiddn App</string>
 </resources>
